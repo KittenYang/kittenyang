@@ -1,7 +1,10 @@
 ### Hello there 👋
 If must write a sentence in this precious position, I hope to share with you the sentence I have benefited the most: **Better late than never.**
 
-<img src="https://github-readme-stats.vercel.app/api?username=kittenyang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kittenyang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittenyang&layout=compact" /> 
+</p>
 
 
 - 🔭  I’m currently working on [Longinus](https://github.com/KittenYang/Longinus) - A pure Swift high-performance asynchronous image loading framework.
