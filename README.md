@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kittenyang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=kittenyang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&count_private=true" />
 
 
 - 🔭  I’m currently working on [Longinus](https://github.com/KittenYang/Longinus) - A pure Swift high-performance asynchronous image loading framework.
@@ -12,15 +12,5 @@
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://apps.kittenyang.com/images/thumbnail/app_icon_oneyear.png" width="100" height="100"/>  |  <img src="https://apps.kittenyang.com/images/thumbnail/app_icon_faecjoy.png" width="100" height="100"/> | <img src="https://apps.kittenyang.com/images/thumbnail/app_icon_doodle_talk.png" width="100" height="100"/> | <img src="https://apps.kittenyang.com/images/thumbnail/app_icon_doodle_go.png" width="100" height="100"/> | <img src="https://apps.kittenyang.com/images/thumbnail/app-icon_oxo-battle.png" width="100" height="100"/>
 
----
 
-
-
-
-
-
-
-
-
-- 📫  How to reach me: [kittenyang@icloud.com]
-- [Twitter](https://twitter.com/KittenYang) | [Weibo](https://weibo.com/710312327)
+- 📫  How to reach me: [kittenyang@icloud.com] | [Twitter](https://twitter.com/KittenYang) | [Weibo](https://weibo.com/710312327)
