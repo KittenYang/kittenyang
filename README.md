@@ -6,9 +6,11 @@ If must write a sentence in this precious position, I hope to share with you the
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittenyang&layout=compact" /> 
 </p>
 
+- 🌱  I’m currently learning Flutter and SwiftUI
 
 - 🔭  I’m currently working on [Longinus](https://github.com/KittenYang/Longinus) - A pure Swift high-performance asynchronous image loading framework.
-- 🌱  I’m currently learning Flutter and SwiftUI
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kittenyang&repo=Longinus)](https://github.com/KittenYang/Longinus)
+
 - 🎊  My apps avaliable on App Store: 
 
 
